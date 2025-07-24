@@ -86,3 +86,6 @@ To design and document a digital solution that helps local communities manage wa
 -  [GitHub](https://github.com/CodeSuriya)
 
 > This project is a portfolio-level end-to-end documentation and Agile simulation of a real-world Business Analyst project using industry tools and processes.
+
+Thank you for reviewing this BA project!
+All feedback and suggestions are welcome.
